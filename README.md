@@ -35,23 +35,16 @@ En este segundo juego tendremos algo parecido al anterior con la diferencia de q
 
 En esta otra parte nos a pedir tipo de multimedia para decidir si queremos colocar alguna imagen, sonido, video o texto. Tenemos tambien tiempo por pregunta es decir limitación, más abajo tendremos la sección para escribir la palbra a adivinar y la definición que seria la ayuda, también tendremos la opción de colocar algún mensaje de felicitación o error.
 
+
 ![image](https://user-images.githubusercontent.com/100291279/155351755-c915fbf1-5c9e-4235-903d-cda550412f1a.png)
 
-Una vez todo listo daremos a guardar para que el usuario pueda hacer la ejecución del juego y como podemos ver tendremos todos
+
+Una vez todo listo daremos a guardar para que el usuario pueda hacer la ejecución del juego y como podemos ver tendremos todas las configuraciones anteriormente realizadas.
+
 
 ![image](https://user-images.githubusercontent.com/100291279/155352454-48b9d72b-a24d-426e-98ac-4752494cf0e4.png)
 
 
-
-
-
-
-
-
-
-
+En esta ultima imagen veremos un diseño terminado haciendo pruebas de funcionamiento, ya sea escribiendo la respuesta incorrecta u otras veremos como tenemos el limite de tiempo, tambien el puntaje, el mensaje de error o respuesta incorrecta, y los corazones que representan la vida del jugador.
 
 ![image](https://user-images.githubusercontent.com/100291279/155352497-0806feb3-c7a0-47b6-8ea0-478ef5454d65.png)
-
-
-Como último paso ya nos queda mostrar una vista final de como nos ha quedado nuestro juego tendremos un límite de tiempo, puntaje, color de fondo, el nombre del autor, el título del juego y el nombre de la pestaña en el navegador.
